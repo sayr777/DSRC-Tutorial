@@ -18,11 +18,11 @@ Cohda wireless, DSRC tutorial, RSU, OBU, CQU-BDSC
 > [3.2 在线资源](#32-在线资源)  
 > [4 致谢](#4-致谢)
   
-## 0 阅读指南
+## 0-Прочтите руководство
 
 这是一篇关于如何使用 _Cohda wireless_ 公司的Dedicated Short Range Communications（**DSRC**, 短程专用通讯）设备（包括On Board Unit, 即车载单元**OBU** 与RoadSide Unit, 即路侧单元 **RSU** ）教程。本文的写作的前提是假设读者有一定的车联网知识，其中包括DSRC等Vehicle to vehicle，**V2V**通信知识。
 
-## 1 DSRC 设备简介
+## 1 DSRC Краткое описание оборудования
 
 ### 1.1 MK5 RSU
 
